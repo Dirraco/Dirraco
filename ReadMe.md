@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Frontend<br>👯 Estou a procura de Estagio<br>💬 Tenho 20 anos e atualmente<br> curso Analise e desenvolvimento de software<br>na UDF.
+🔭 Sou estudante de Frontend<br>👯 Estou a procura de Estagio<br>💬 Tenho 21 anos e atualmente<br> curso Analise e desenvolvimento de software<br>na UDF.
 
 
 ## 🌐 Socials:
